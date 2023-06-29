@@ -84,6 +84,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            herf: 'https://github.com/ChenDaojun/chendaojun.github.io/mkdocs-daozang',
+            label: '道藏',
+            position: 'right',
+          },
         ],
       },
       footer: {
