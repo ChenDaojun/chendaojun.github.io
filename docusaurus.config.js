@@ -30,8 +30,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-CN',
-    locales: ['zh-CN'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -79,7 +79,6 @@ const config = {
             label: '教程',
           },
           { to: '/blog', label: '博客', position: 'left' },
-          { to: '/novel', label: '小说📖', position: 'left' },
           {
             href: 'https://github.com/ChenDaojun/chendaojun.github.io',
             label: 'GitHub 🚀',
@@ -101,10 +100,6 @@ const config = {
               {
                 label: '教程',
                 to: '/docs/',
-              },
-              {
-                label: '小说',
-                to: '/novel',
               },
             ],
           },
