@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: '博客', position: 'left' },
           {
             href: 'https://github.com/ChenDaojun/chendaojun.github.io',
             label: 'GitHub',
