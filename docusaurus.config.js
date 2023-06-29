@@ -76,9 +76,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '教程',
           },
           { to: '/blog', label: '博客', position: 'left' },
+          { to: '/novel', label: '小说📖', position: 'left' },
           {
             href: 'https://github.com/ChenDaojun/chendaojun.github.io',
             label: 'GitHub 🚀',
@@ -99,7 +100,7 @@ const config = {
             items: [
               {
                 label: '教程',
-                to: '/docs/intro',
+                to: '/docs/',
               },
             ],
           },
