@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chendaojun.github.io/blog</id>
     <title>陈玄微的博客 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-06-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chendaojun.github.io/blog"/>
     <subtitle>陈玄微的博客 Blog</subtitle>
     <icon>https://chendaojun.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[我的第一篇博客]]></title>
+        <id>https://chendaojun.github.io/blog/Hello,Weclome Read.</id>
+        <link href="https://chendaojun.github.io/blog/Hello,Weclome Read."/>
+        <updated>2023-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是我的第一篇博客]]></summary>
+        <content type="html"><![CDATA[<p>欢迎来到本博客。本博客使用 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a> 搭建。</p><p>This is my first post on Docusaurus 2.</p><p>下方是一系列内容。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="关于一些设定">关于一些设定<a href="#关于一些设定" class="hash-link" aria-label="关于一些设定的直接链接" title="关于一些设定的直接链接">​</a></h2><p>四大公司：通用，过去，现世，未来。</p><p>其中<code>通用</code>公司是<code>过去</code>, <code>现世</code>, <code>未来</code>三大公司之母。</p>]]></content>
+        <author>
+            <name>Chenxuanwei</name>
+            <uri>https://github.com/ChenDaojun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://chendaojun.github.io/blog/welcome</id>

@@ -4,10 +4,18 @@
         <title>陈玄微的博客 Blog</title>
         <link>https://chendaojun.github.io/blog</link>
         <description>陈玄微的博客 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[我的第一篇博客]]></title>
+            <link>https://chendaojun.github.io/blog/Hello,Weclome Read.</link>
+            <guid>https://chendaojun.github.io/blog/Hello,Weclome Read.</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是我的第一篇博客]]></description>
+            <content:encoded><![CDATA[<p>欢迎来到本博客。本博客使用 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a> 搭建。</p><p>This is my first post on Docusaurus 2.</p><p>下方是一系列内容。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="关于一些设定">关于一些设定<a href="#关于一些设定" class="hash-link" aria-label="关于一些设定的直接链接" title="关于一些设定的直接链接">​</a></h2><p>四大公司：通用，过去，现世，未来。</p><p>其中<code>通用</code>公司是<code>过去</code>, <code>现世</code>, <code>未来</code>三大公司之母。</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://chendaojun.github.io/blog/welcome</link>
