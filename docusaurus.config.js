@@ -85,8 +85,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/ChenDaojun/chendaojun.github.io/mkdocs-daozang',
-            label: '道藏',
+            href: 'https://chendaojun.github.io/mkdocs-daozang',
+            label: '元始道藏',
             position: 'right',
           },
         ],
