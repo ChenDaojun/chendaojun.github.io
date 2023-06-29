@@ -102,6 +102,10 @@ const config = {
                 label: '教程',
                 to: '/docs/',
               },
+              {
+                label: '小说',
+                to: '/novel',
+              },
             ],
           },
           {
