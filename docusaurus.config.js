@@ -81,7 +81,7 @@ const config = {
           { to: '/blog', label: '博客', position: 'left' },
           {
             href: 'https://github.com/ChenDaojun/chendaojun.github.io',
-            label: 'GitHub',
+            label: 'GitHub 🚀',
             position: 'right',
           },
           {
